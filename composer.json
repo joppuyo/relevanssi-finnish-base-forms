@@ -1,0 +1,10 @@
+{
+    "name": "joppuyo/relevanssi-finnish-base-forms",
+    "type": "wordpress-plugin",
+    "description": "Relevanssi plugin to add Finnish base forms in search index",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/process": ">=3.3"
+    }
+}
