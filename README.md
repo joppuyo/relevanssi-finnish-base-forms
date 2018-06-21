@@ -25,7 +25,7 @@ The CLI application is much faster because it doesn't have the overhead performi
 
 ### Voikkospell command line
 
-1. Install voikkospell on your server. On Ubuntu/Debian this can be done with **apt install libvoikko-dev voikko-fi**
+1. Install voikkospell on your server. On Ubuntu/Debian this can be done with `apt install libvoikko-dev voikko-fi`
 2. Go on the Plugins page, find the plugin, click **Settings**. For **API Type** select **Voikko command line**.
 
 After installation, remember to re-index the site from Relevanssi settings page.
