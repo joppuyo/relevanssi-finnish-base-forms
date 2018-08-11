@@ -4,7 +4,7 @@
 Plugin Name: Relevanssi Finnish Base Forms
 Plugin URI: https://github.com/joppuyo/relevanssi-finnish-base-forms
 Description: Relevanssi plugin to add Finnish base forms in search index
-Version: 1.1.0
+Version: 1.1.1
 Author: Johannes Siipola
 Author URI: https://siipo.la
 Text Domain: relevanssi-finnish-base-forms

@@ -18,6 +18,9 @@ Relevanssi plugin to add Finnish base forms in search index. Requires Relevanssi
 
 == Changelog ==
 
+= 1.1.1 =
+* Fix readme and plugin description
+
 = 1.1.0 =
 * Add option to split compound words
 * Add option to use bundled voikkospell binary on Linux systems
