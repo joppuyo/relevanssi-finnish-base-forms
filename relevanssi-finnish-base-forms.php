@@ -2,12 +2,12 @@
 
 /*
 Plugin Name: Relevanssi Finnish Base Forms
-Plugin URI: https://github.com/joppuyo/searchwp-finnish-base-forms
-Description: SearchWP plugin to add Finnish base forms in search index
+Plugin URI: https://github.com/joppuyo/relevanssi-finnish-base-forms
+Description: Relevanssi plugin to add Finnish base forms in search index
 Version: 1.1.0
 Author: Johannes Siipola
 Author URI: https://siipo.la
-Text Domain: searchwp-finnish-base-forms
+Text Domain: relevanssi-finnish-base-forms
 */
 
 defined('ABSPATH') or die('I wish I was using a real MVC framework');

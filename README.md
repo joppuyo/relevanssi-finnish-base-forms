@@ -41,7 +41,7 @@ Enable this option to split compound words during indexing (and for user queries
 
 1. **Download** latest version from the [releases](https://github.com/joppuyo/relevanssi-finnish-base-forms/releases) tab
 2. **Unzip** the plugin into your `wp-content/plugins` directory
-3. **Activate** SearchWP Finnish Base Forms from your Plugins page
+3. **Activate** Relevanssi Finnish Base Forms from your Plugins page
 
 ### Bundled voikkospell binary
 
