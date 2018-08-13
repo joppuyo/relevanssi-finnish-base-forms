@@ -1,6 +1,7 @@
 # Relevanssi Finnish Base Forms
 
 [![Latest Stable Version](https://poser.pugx.org/joppuyo/relevanssi-finnish-base-forms/v/stable)](https://packagist.org/packages/joppuyo/relevanssi-finnish-base-forms)
+[![Build Status](https://travis-ci.com/joppuyo/relevanssi-finnish-base-forms.svg?branch=master)](https://travis-ci.com/joppuyo/relevanssi-finnish-base-forms)
 
 Relevanssi plugin to add Finnish base forms into search index using [Voikko](https://voikko.puimula.org/).
 
